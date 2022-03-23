@@ -1,0 +1,7 @@
+to compile pgmReduce.c program type:
+
+gcc pgmReduce.c pgma2b.c pgmb2a.c -o pgmReduce
+
+to run the program type:
+
+./pgmReduce <inputfile>.pgm <reduce_count> <outfile>.pgm //You can use input.pgm provided here

@@ -1,0 +1,5 @@
+compile: 
+gcc pgmComp.c pgm_utility.c -o pgmComp
+
+run:
+./pgmComp slice0a.pgm slice0b.pgm

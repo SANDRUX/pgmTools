@@ -1,0 +1,7 @@
+to compile pgmTile program type:
+
+gcc pgmTile.c pgma2b.c pgmb2a.c -o pgmTile
+
+to run the program type:
+
+./pgmTile input.pgm reducetime "file_<row>_<column>.pgm"

@@ -1,0 +1,17 @@
+there are two pgm binary files provided first.pgm and second.pgm
+
+to compile pgmComp.c type:
+
+gcc pgmComp.c pgmb2a.c -o pgmComp
+
+usage of pgmComp:
+
+./pgmComp <file1>.pgm <file2>.pgm (You can use already provided files first.pgm and second.pgm here)
+
+to compile pgmEcho.c type:
+
+gcc pgmEcho.c pgmb2a.c pgma2b.c -o pgmEcho
+
+usage of pgmEcho:
+
+./pgmEcho <inputfile>.pgm <outputfile>.pgm (You can use already provided file first.pgm as an example)
