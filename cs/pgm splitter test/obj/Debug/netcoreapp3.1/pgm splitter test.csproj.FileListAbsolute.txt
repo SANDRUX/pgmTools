@@ -1,0 +1,14 @@
+E:\C SHARP\pgm splitter test\pgm splitter test\bin\Debug\netcoreapp3.1\pgm splitter test.exe
+E:\C SHARP\pgm splitter test\pgm splitter test\bin\Debug\netcoreapp3.1\pgm splitter test.deps.json
+E:\C SHARP\pgm splitter test\pgm splitter test\bin\Debug\netcoreapp3.1\pgm splitter test.runtimeconfig.json
+E:\C SHARP\pgm splitter test\pgm splitter test\bin\Debug\netcoreapp3.1\pgm splitter test.runtimeconfig.dev.json
+E:\C SHARP\pgm splitter test\pgm splitter test\bin\Debug\netcoreapp3.1\pgm splitter test.dll
+E:\C SHARP\pgm splitter test\pgm splitter test\bin\Debug\netcoreapp3.1\pgm splitter test.pdb
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.csprojAssemblyReference.cache
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.GeneratedMSBuildEditorConfig.editorconfig
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.AssemblyInfoInputs.cache
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.AssemblyInfo.cs
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.csproj.CoreCompileInputs.cache
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.dll
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.pdb
+E:\C SHARP\pgm splitter test\pgm splitter test\obj\Debug\netcoreapp3.1\pgm splitter test.genruntimeconfig.cache

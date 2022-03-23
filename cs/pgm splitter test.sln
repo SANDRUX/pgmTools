@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm splitter test", "pgm splitter test\pgm splitter test.csproj", "{BD32E780-AC9A-4DCB-BE3E-587886650E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD32E780-AC9A-4DCB-BE3E-587886650E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD32E780-AC9A-4DCB-BE3E-587886650E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD32E780-AC9A-4DCB-BE3E-587886650E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD32E780-AC9A-4DCB-BE3E-587886650E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8159C5-895F-4264-8386-D5EEA1555D0B}
+	EndGlobalSection
+EndGlobal
